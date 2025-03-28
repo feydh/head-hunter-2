@@ -1,3 +1,3 @@
 # Анализ вакансий из HeadHunter
 
-[Перейти к проекту](https://github.com/feydh/HeadHunter/blob/main/Project-1.ipynb)  
+[Перейти к проекту]([https://github.com/feydh/head-hunter-2/blob/main/Project_2.ipynb])  
